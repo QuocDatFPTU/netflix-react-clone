@@ -1,10 +1,112 @@
 import React from "react";
-import { Header } from "@/components/header";
+import { Navbar } from "@/features/home/components/navbar";
 
 type Props = {};
 
 export function MainLayout({}: Props) {
   return (
-    <Header/>
-  )
+    <div className="homepage w-full">
+      <Navbar />
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+      <h1>"test"</h1>
+    </div>
+  );
 }
